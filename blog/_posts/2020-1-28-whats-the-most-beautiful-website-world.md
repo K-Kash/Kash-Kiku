@@ -1,4 +1,3 @@
-![テスト](https://k-kash.s3.us-west-1.amazonaws.com/logo.png "サンプル")
 ---
 title: 雨上がりの散歩
 date: 2022-5-2
