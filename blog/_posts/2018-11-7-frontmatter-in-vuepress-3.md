@@ -1,6 +1,6 @@
 ---
 title: 伊予ヶ岳
-date: 2022-1-15
+date: 2022-3-4
 tags: 
   - 山登り
 featuredimg: '/assets/img/2022-01-15/20220130_113059.jpg'
