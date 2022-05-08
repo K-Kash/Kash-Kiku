@@ -1,3 +1,4 @@
+![テスト](https://k-kash.s3.us-west-1.amazonaws.com/logo.png "サンプル")
 ---
 title: 雨上がりの散歩
 date: 2022-5-2
@@ -7,7 +8,6 @@ tags:
 featuredimg: '/assets/img/logo.png'
 summary: 雨雫に濡れながらの雨上がりの散歩
 ---
-![テスト](https://k-kash.s3.us-west-1.amazonaws.com/logo.png "サンプル")
 <br>
 ![テスト](https://k-kash.s3.us-west-1.amazonaws.com/2022-05-02/20220502_180422.jpg "サンプル")
 ***
