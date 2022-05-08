@@ -7,6 +7,9 @@ tags:
 featuredimg: 'https://k-kash.s3.us-west-1.amazonaws.com/2022-04-09/1649665348592.jpg'
 summary: 関東屈指の桜となのはなの公園にお花見へ
 ---
+![ベンチ](https://https://k-kash.s3.us-west-1.amazonaws.com/2022-04-09/1649665348592.jpg "ベンチ")
+***
+<br>
 
 関東屈指の桜の名所に写真仲間と一緒にお花見へ行きました！
 約1km続く千本桜のトンネルと、広大な菜の花畑のコントラストがすばらしい。
