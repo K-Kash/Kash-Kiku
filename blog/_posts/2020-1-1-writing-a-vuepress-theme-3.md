@@ -7,7 +7,7 @@ tags:
 featuredimg: 'https://k-kash.s3.us-west-1.amazonaws.com/2022-04-09/1649665348592.jpg'
 summary: 関東屈指の桜となのはなの公園にお花見へ
 ---
-![ベンチ](https://https://k-kash.s3.us-west-1.amazonaws.com/2022-04-09/1649665348592.jpg "ベンチ")
+![ベンチ](https://k-kash.s3.us-west-1.amazonaws.com/2022-04-09/1649665348592.jpg "ベンチ")
 ***
 <br>
 
