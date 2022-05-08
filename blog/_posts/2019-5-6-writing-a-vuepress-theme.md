@@ -5,7 +5,6 @@ tags:
   - 山登り
   - 神社仏閣
   - ツーリング
-author: John Doe
 featuredimg: '/assets/img/2021-09-01/20211218143905_IMG_1446.JPG'  
 summary: 日本百名山　筑波山の登山
 ---
